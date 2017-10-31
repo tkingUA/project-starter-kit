@@ -7,7 +7,7 @@ import {chalkSuccess} from './chalkConfig';
 
 const pathsToRemove = [
   './src/actions/*',
-  './src/utils',
+  './src/utils/*',
   './src/components/*',
   './src/constants/*',
   './src/containers/*',

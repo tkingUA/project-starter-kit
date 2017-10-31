@@ -1,9 +1,9 @@
 'use strict';
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
-import HomePage from './HomePage';
+import HomePage from '../containers/HomePage';
 import FuelSavingsPage from '../containers/FuelSavingsPage';
-import AboutPage from './AboutPage';
+import AboutPage from '../containers/AboutPage';
 import NotFoundPage from './NotFoundPage';
 
 

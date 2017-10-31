@@ -3,6 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Routes from './Routes';
 import NavBar from './NavBar';
+import PageHeader from "./Header";
 
 // This is a class-based component because the current
 // version of hot reloading won't hot reload a stateless
@@ -13,6 +14,7 @@ class App extends React.Component {
     return (
       <div>
         <div>
+          <PageHeader />
           <NavBar />
         </div>
         <Routes />
