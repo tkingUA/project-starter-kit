@@ -1,6 +1,6 @@
 ~~~ PROJECT STARTER KIT ~~~ 
 
--- This Project Starter Kit is adapted from the React Slingshot Repo. If you have any questions please consult the original documentation and README. The github account can be found <a href='https://github.com/coryhouse/react-slingshot'> here</a>.
+-- This Project Starter Kit is adapted from the React Slingshot Repo. If you have any questions please consult the original documentation and README. The React-Slingshot repo can be found <a href='https://github.com/coryhouse/react-slingshot'> here</a>.
 
 
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/3129129/22811426/bb69dc06-ef0c-11e6-8092-a0bea9060b35.png"/></p>

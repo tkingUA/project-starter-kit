@@ -1,7 +1,7 @@
 {
-  "name": "project-starter-kit",
+  "name": "project-starter-kit-gql",
   "version": "1.0.0",
-  "description": "Project Starter Kit. React-Redux premade project scaffolding. Semantic UI is preloaded into project.",
+  "description": "React-Redux project starter kit with GraphQl support built in.",
   "main": "index.js",
   "engines": {
     "npm": ">=3"
@@ -32,10 +32,14 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "axios": "0.17.0",
+    "docker": "1.0.0",
+    "graphcool": "0.8.5",
+    "graphql": "0.11.7",
+    "graphql-up": "1.1.1",
     "gulp": "3.9.1",
     "object-assign": "4.1.0",
     "react": "16.0.0",
+    "react-apollo": "2.0.0",
     "react-dom": "16.0.0",
     "react-redux": "5.0.5",
     "react-router-dom": "4.2.2",

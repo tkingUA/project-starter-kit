@@ -4,11 +4,12 @@ import React from 'react';
 const HomePage = () => {
   return (
     <div className="content">
-      <h1>Project Starter Kit</h1>
+      <h1>Project Starter Kit (GQL)</h1>
 
       <h2>Get Started</h2>
       <ul>
         <li>Comes with React-Redux pre-loaded -- Webpack too!</li>
+        <li>Built for GraphQL Endpoints</li>
         <li>Formatting with ESLint</li>
         <li>Integrated with Semantic UI</li>
         <li>Jest for Unit Testing</li>
